@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zqx/Code/LearnOpenGL/build",
+  "command": "/usr/bin/g++  -I/home/zqx/Code/LearnOpenGL/include -g -o CMakeFiles/LearnOpenGL001.dir/src/main.cpp.o -c /home/zqx/Code/LearnOpenGL/src/main.cpp",
+  "file": "/home/zqx/Code/LearnOpenGL/src/main.cpp"
+},
+{
+  "directory": "/home/zqx/Code/LearnOpenGL/build",
+  "command": "/usr/bin/gcc  -I/home/zqx/Code/LearnOpenGL/include -g -o CMakeFiles/LearnOpenGL001.dir/src/glad.c.o -c /home/zqx/Code/LearnOpenGL/src/glad.c",
+  "file": "/home/zqx/Code/LearnOpenGL/src/glad.c"
+}
+]
